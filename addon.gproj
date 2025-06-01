@@ -1,0 +1,83 @@
+GameProject {
+ ID "ARWOG-arma-reforger-weekly-open-games"
+ GUID "657F2E95E7D235E7"
+ TITLE "ARWOG-arma-reforger-weekly-open-games"
+ Dependencies {
+  "58D0FB3206B6F859" "5EAF2B0473DB5A99" "DEB66BADC0DE6667" "7777777777777774" "595F2BF2F44836FB" "1337C0DE5DABBEEF" "BADC0DEDABBEDA5E"
+ }
+ Configurations {
+  GameProjectConfig PC {
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{657F37640BB0B34E}" {
+      StringTableSource "{21C27207FBD3E8D1}Prefabs/Items/Equipment/Radios/wog_radio_str.st"
+      Languages {
+       LanguageDefinition "{657F37640EF0B143}" {
+        Code "cs_cz"
+        StringTableRuntime "{502E3DC25A28CF06}Prefabs/Items/Equipment/Radios/wog_radio_str.cs_cz.conf"
+       }
+       LanguageDefinition "{657F37640EF0B0AC}" {
+        Code "de_de"
+        StringTableRuntime "{855027F1498BDE26}Prefabs/Items/Equipment/Radios/wog_radio_str.de_de.conf"
+       }
+       LanguageDefinition "{657F37640EF0B0BA}" {
+        Code "en_us"
+        StringTableRuntime "{DBA0ADBA2378DB27}Prefabs/Items/Equipment/Radios/wog_radio_str.en_us.conf"
+       }
+       LanguageDefinition "{657F37640EF0B08D}" {
+        Code "es_es"
+        StringTableRuntime "{1EECE033CD7AB038}Prefabs/Items/Equipment/Radios/wog_radio_str.es_es.conf"
+       }
+       LanguageDefinition "{657F37640EF0B09D}" {
+        Code "fr_fr"
+        StringTableRuntime "{A54415042BF9533A}Prefabs/Items/Equipment/Radios/wog_radio_str.fr_fr.conf"
+       }
+       LanguageDefinition "{657F37640EF0B0EA}" {
+        Code "it_it"
+        StringTableRuntime "{25589A3086DBD0C3}Prefabs/Items/Equipment/Radios/wog_radio_str.it_it.conf"
+       }
+       LanguageDefinition "{657F37640EF0B0FD}" {
+        Code "ja_jp"
+        StringTableRuntime "{354327A2B8AAE068}Prefabs/Items/Equipment/Radios/wog_radio_str.ja_jp.conf"
+       }
+       LanguageDefinition "{657F37640EF0B0CC}" {
+        Code "ko_kr"
+        StringTableRuntime "{95FD0F0E2B87E357}Prefabs/Items/Equipment/Radios/wog_radio_str.ko_kr.conf"
+       }
+       LanguageDefinition "{657F37640EF0B0DC}" {
+        Code "pl_pl"
+        StringTableRuntime "{C98CA9F495687F2B}Prefabs/Items/Equipment/Radios/wog_radio_str.pl_pl.conf"
+       }
+       LanguageDefinition "{657F37640EF0B020}" {
+        Code "pt_br"
+        StringTableRuntime "{1CFB3338AE96B591}Prefabs/Items/Equipment/Radios/wog_radio_str.pt_br.conf"
+       }
+       LanguageDefinition "{657F37640EF0B010}" {
+        Code "ru_ru"
+        StringTableRuntime "{49BA279033EFD0E7}Prefabs/Items/Equipment/Radios/wog_radio_str.ru_ru.conf"
+       }
+       LanguageDefinition "{657F37640EF0B06B}" {
+        Code "uk_ua"
+        StringTableRuntime "{C3E272665FC16EB2}Prefabs/Items/Equipment/Radios/wog_radio_str.uk_ua.conf"
+       }
+       LanguageDefinition "{657F37640EF0B07C}" {
+        Code "zh_cn"
+        StringTableRuntime "{19521C5B6661BEAF}Prefabs/Items/Equipment/Radios/wog_radio_str.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{DBA0ADBA2378DB27}Prefabs/Items/Equipment/Radios/wog_radio_str.en_us.conf"
+ Configurations {
+  CONFResourceClass PC {
+  }
+  CONFResourceClass XBOX_ONE : PC {
+  }
+  CONFResourceClass XBOX_SERIES : PC {
+  }
+  CONFResourceClass PS4 : PC {
+  }
+  CONFResourceClass PS5 : PC {
+  }
+  CONFResourceClass HEADLESS : PC {
+  }
+ }
+}
